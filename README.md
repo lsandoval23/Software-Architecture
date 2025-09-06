@@ -23,5 +23,5 @@ borrowing books, returning them, calculating fines, and sending notifications.
    git clone https://github.com/your-username/library-system.git
    cd library-system
    mvn clean compile
-   mvn exec:java -Dexec.mainClass="com.library.ui.LibrarySystem"
+   mvn exec:java -Dexec.mainClass="app.MainSystem"
 
