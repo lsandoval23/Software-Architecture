@@ -20,8 +20,7 @@ borrowing books, returning them, calculating fines, and sending notifications.
 
 1. **Clone the repository** (or copy the project folder):  
    ```bash
-   git clone https://github.com/your-username/library-system.git
-   cd library-system
+   git clone https://github.com/lsandoval23/Software-Architecture.git
    mvn clean compile
    mvn exec:java -Dexec.mainClass="app.MainSystem"
 
